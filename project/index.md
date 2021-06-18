@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/blob/main/project/index.md)
+Victor Adankai, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
