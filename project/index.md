@@ -1,10 +1,6 @@
 ---
 date: 2021-06-16
-<<<<<<< HEAD
 title: Motion Prediction For Autonomous Vehicles # Project: This is the Descriptive Title of the Example
-=======
-title: "Project: This is the Descriptive Title of the Example"
->>>>>>> 8852c2784ef5dfe1f3ae68ab4f9370e77504f673
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
