@@ -1,6 +1,10 @@
 ---
 date: 2021-06-16
+<<<<<<< HEAD
 title: Motion Prediction For Autonomous Vehicles # Project: This is the Descriptive Title of the Example
+=======
+title: "Project: This is the Descriptive Title of the Example"
+>>>>>>> 8852c2784ef5dfe1f3ae68ab4f9370e77504f673
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
@@ -90,7 +94,7 @@ You have two choices for the final project.
 
 1. Project, That is a final report that includes code.
 2. Report, that is a final project without code.
-   
+
 YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
 at the beginning of your project.
 
@@ -106,7 +110,7 @@ Remember this is not a powerpoint presentation, but a report so we recommend
 
 1. Use itemized or enumeration lists sparingly
 2. When using bulleted lists use * and not - 
-   
+
 ## 5. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
@@ -117,7 +121,7 @@ the download function.
 ## 6. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
- 
+
 ## 6. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
