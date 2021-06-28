@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: "Real-Time Detection of Cyber Attacks on IoT Devices Using Deep Learning"
-linkTitle: "Real-Time Cyber Attacks Detection"
-tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
+title: "AI Time Series Analysis"
+linkTitle: "TIme Series"
+tags: ["project", "reu","ai"]
 description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices real-time"
-author: Victor Adankai
+author: "Zyion Morris"
 github_url: https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -36,19 +36,11 @@ Contents
 ## 1. Introduction
 
 
-- [ ] Find literature about AI and Cyber Attacks on IoT Devices Dectection.
-- [ ] Analyze the literature and explain how AI for Cyber Attacks on IOT Devices Detection are beneficial.
-
+- [ ] ass tasks
 
 ## 2. Datasets
 
-- [ ] Finding data sets in IoT Devices Cyber Attacks.
-- [ ] Can any of the data sets be used in AI?
-- [ ] What are the challenges with IoT Devices Cyber Attacks data set? Privacy, HIPPA, Size, Avalibility
-- [ ] Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
-      However, if the data is publicly available you program must contain a download function instead that you customize.
-      Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-      the download function.
+- [ ] add tasks
 
 
 ## 3. Using Images
@@ -77,6 +69,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 6. Acknowledgments
 
+Needs full sentence
 
 - Gregor von Laszewski
 - Yohn Jairo Bautista
