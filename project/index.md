@@ -1,8 +1,8 @@
 ---
 date: 2021-06-16
-title: "Detecting Cyber Attacks on Connected and Autonomous Vehicles (CAV) Using Deep Learning Algorithm"
+title: "Detection of Cyber Attacks on IoT Devices"
 linkTitle:
-tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","CAV"]
+tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
 description: ""
 author: Victor Adankai
 github_url: https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md
@@ -30,7 +30,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** AI, ML, DL, Cybersecurity, Cyber Attacks, CAV . 
+**Keywords:** AI, ML, DL, Cybersecurity, Cyber Attacks, IoT. 
 
 
 ## 1. Introduction
