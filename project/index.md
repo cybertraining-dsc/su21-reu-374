@@ -78,9 +78,9 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 ## 6. Acknowledgments
 
 
-Gregor von Laszewski
-Yohn Jairo Bautista
-Carlos Theran
+- Gregor von Laszewski
+- Yohn Jairo Bautista
+- Carlos Theran
 
 
 ## 7. References
