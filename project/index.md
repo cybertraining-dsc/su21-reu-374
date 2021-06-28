@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Real-Time Detection of Cyber Attacks on IoT Devices Using Deep Learning"
 linkTitle:
 tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
-description: ""
+description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices real-time"
 author: Victor Adankai
 github_url: https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md
 resources:
