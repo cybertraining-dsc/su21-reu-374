@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Detecting Cyber Attacks on Connected and Autonomous Vehicles Using Deep Learning"
+title: "Detecting Cyber Attacks on Connected and Autonomous Vehicles (CAV) Using Deep Learning"
 linkTitle:
 tags: ["project", "reu"]
 description: ""
