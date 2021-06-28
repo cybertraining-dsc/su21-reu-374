@@ -1,5 +1,5 @@
 ---
-owner:
+owner: 
   firstname: "Zyion"
   lastname: "Morris"
   hid: "su21-reu-374"
@@ -7,6 +7,6 @@ owner:
   semester: "su21"
 project:
   title: "AI Time Series Analysis"
-  url: TBD
+  url: https://github.com/cybertraining-dsc/su21-reu-374/blob/main/project/index.md
   author:
-    - su21-reu-374
+    - Zyion Morris, su21-reu-374
