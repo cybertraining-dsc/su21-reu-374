@@ -6,7 +6,7 @@ owner:
   community: "reu"
   semester: "sp21"
 project:
-  title: Detecting Cyber Attacks on Connected and Autonomous Vehicles (CAV) Using Deep Learning Algorithm
+  title: "Real-Time Detection of Cyber Attacks on IoT Devices Using Deep Learning"
   url: TBD
   author:
     - su21-reu-374
