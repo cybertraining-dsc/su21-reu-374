@@ -1,12 +1,12 @@
 ---
 owner:
-  firstname: "Victor"
-  lastname: "Adankai"
+  firstname: "Zyion"
+  lastname: "Morris"
   hid: "su21-reu-374"
   community: "reu"
-  semester: "sp21"
+  semester: "su21"
 project:
-  title: "Real-Time Detection of Cyber Attacks on IoT Devices Using Deep Learning"
+  title: "AI Time Series Analysis"
   url: TBD
   author:
     - su21-reu-374
