@@ -11,12 +11,12 @@ resources:
   title: "Image #:counter"
 ---
 
-[![Check Report](https://github.com/cybertraining-dsc/su21-reu-374/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-374/actions)
-[![Status](https://github.com/cybertraining-dsc/su21-reu-374/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-374/actions)
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-374/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-374/actions)
 Status: draft, Type: Project
 
 
-Victor Adankai, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/blob/main/project/index.md)
+Zyion Morris, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md)
 
 {{% pageinfo %}}
 
