@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Detection of Cyber Attacks on IoT Devices"
+title: "Real-Time Detection of Cyber Attacks on IoT Devices Using Deep Learning"
 linkTitle:
 tags: ["project", "reu","ai","ml","dl","cybersecurity","cyberattacks","IoT"]
 description: ""
