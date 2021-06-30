@@ -1,12 +1,12 @@
 ---
 date: 2021-06-16
 title: "AI Time Series Analysis"
-linkTitle: "TIme Series"
+linkTitle: "Time Series"
 tags: ["project", "reu","ai"]
 description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices real-time"
 author: "Zyion Morris"
 github_url: https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md
-resources:
+resources: 
 - src: "**.{png,jpg}"
   title: "Image #:counter"
 ---
@@ -24,7 +24,6 @@ Zyion Morris, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374),
 
 Here comes a short abstract of the project that summarizes what it is about
 
-Contents
 
 {{< table_of_contents >}}
 
@@ -36,11 +35,20 @@ Contents
 ## 1. Introduction
 
 
-- [ ] ass tasks
+ My first research on AI Time analysis includes query on stock market data stucture.
+ The mean (level), maximum, minimum values; Time Series Data Components - trend, seasonality, noise or randomness, a curve, and the level.
+ Blockchain levies to be the coin flip of how Artificial Intellignece predicts future prices through machine learning.
+ What codes exist that demonstrate the use of blockchain with AI using Python?
+ What is the code in this project that will be developed?
+ What is the performance of this code?
+ What is my conclusion?
+ Never, ever use the words ‘I’ or ‘my’ in a report
 
 ## 2. Datasets
 
-- [ ] add tasks
+This report pertains a .CSV file of a dataset predicting the consumption of electricity in the coming future.                                                         [archive.zip](https://github.com/cybertraining-dsc/su21-reu-374/files/6743411/archive.zip)
+
+
 
 
 ## 3. Using Images
@@ -79,10 +87,9 @@ Needs full sentence
 ## 7. References
 
 
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+Marco Iansiti and Karim R. Lakhani, The Truth About Blockchain, [Online resource] https://hbr.org/2017/01/the-truth-about-blockchain ↩︎
 
+Jeremy Swinfen Green, Understanding cryptocurrency market fluctuations, [Online resource] https://www.telegraph.co.uk/business/business-reporter/cryptocurrency-market-fluctuations/ ↩︎
 
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
+Mehmet Tarik Akcay, Historical Data for Top 20 Coins by Market Cap, [Online resource] https://www.kaggle.com/mtakcy/historical-data-for-top-20-coins-by-market-cap?select=eos.csv ↩︎
 
