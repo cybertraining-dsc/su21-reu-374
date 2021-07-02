@@ -15,6 +15,8 @@ resources:
 [![Status](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-374/actions)
 Status: draft, Type: Project
 
+- [ ] syntax for refences wron, see original example
+- [ ] never ever use the word I or my in your report
 
 Zyion Morris, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md)
 
@@ -34,8 +36,9 @@ Here comes a short abstract of the project that summarizes what it is about
 
 ## 1. Introduction
 
+-[ ] do not indnt 
 
- My first research on AI Time analysis includes query on stock market data stucture.
+ ~~My~~ first research on AI Time analysis includes query on stock market data stucture.
  The mean (level), maximum, minimum values; Time Series Data Components - trend, seasonality, noise or randomness, a curve, and the level.
  Blockchain levies to be the coin flip of how Artificial Intellignece predicts future prices through machine learning.
 numpy, matplotlib, pandas, cloudmesh-common, cloudmesh-cmd5s, are codes existing that demonstrate the use of blockchain with AI using Python.
@@ -46,7 +49,7 @@ numpy, matplotlib, pandas, cloudmesh-common, cloudmesh-cmd5s, are codes existing
 
 ## 2. Datasets
 
-This report pertains a .CSV file of a dataset predicting the consumption of electricity in the coming future.                                                         [archive.zip](https://github.com/cybertraining-dsc/su21-reu-374/files/6743411/archive.zip)
+This report pertains a .CSV file of a dataset predicting the consumption of electricity in the coming future.                 [archive.zip](https://github.com/cybertraining-dsc/su21-reu-374/files/6743411/archive.zip)
 
 
 
@@ -86,6 +89,7 @@ Needs full sentence
 
 ## 7. References
 
+-[ ] refernce syntax wrong see original example
 
 <Marco Iansiti and Karim R. Lakhani, The Truth About Blockchain, [Online resource] https://hbr.org/2017/01/the-truth-about-blockchain>
 
