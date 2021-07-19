@@ -15,8 +15,8 @@ resources:
 [![Status](https://github.com/cybertraining-dsc/fa20-523-312/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-374/actions)
 Status: draft, Type: Project
 
-- [ ] syntax for refences wron, see original example
-- [ ] never ever use the word I or my in your report
+- [*] syntax for refences wron, see original example
+- [*] never ever use the word I or my in your report
 
 Zyion Morris, [su21-reu-374](https://github.com/cybertraining-dsc/su21-reu-374), [Edit](https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md)
 
@@ -36,16 +36,14 @@ Here comes a short abstract of the project that summarizes what it is about
 
 ## 1. Introduction
 
--[ ] do not indnt 
-
- ~~My~~ first research on AI Time analysis includes query on stock market data stucture.
+Concurrently, research on AI Time analysis includes query on stock market data stucture.
  The mean (level), maximum, minimum values; Time Series Data Components - trend, seasonality, noise or randomness, a curve, and the level.
  Blockchain levies to be the coin flip of how Artificial Intellignece predicts future prices through machine learning.
 numpy, matplotlib, pandas, cloudmesh-common, cloudmesh-cmd5s, are codes existing that demonstrate the use of blockchain with AI using Python.
  What is the code in this project that will be developed?
  What is the performance of this code?
- What is my conclusion?
- Never, ever use the words ‘I’ or ‘my’ in a report
+ What is one conclusion utilizing the source code?
+ *Never, ever use the words ‘I’ or ‘my’ in a report
 
 ## 2. Datasets
 
@@ -69,18 +67,18 @@ This report pertains a .CSV file of a dataset predicting the consumption of elec
 ## 4. Benchmark
 
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+*Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
 
 
 ## 5. Conclusion
 
 
-A convincing but not fake conclusion should summarize what the conclusion of the project is.
+*A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
 
 ## 6. Acknowledgments
 
-Needs full sentence
+*Needs full sentence
 
 - Gregor von Laszewski
 - Yohn Jairo Bautista
@@ -89,11 +87,9 @@ Needs full sentence
 
 ## 7. References
 
--[ ] refernce syntax wrong see original example
+1. Marco Iansiti and Karim R. Lakhani, The Truth About Blockchain, [Online resource] https://hbr.org/2017/01/the-truth-about-blockchain ↩︎
 
-<Marco Iansiti and Karim R. Lakhani, The Truth About Blockchain, [Online resource] https://hbr.org/2017/01/the-truth-about-blockchain>
+    2. Jeremy Swinfen Green, Understanding cryptocurrency market fluctuations, [Online resource] https://www.telegraph.co.uk/business/business-reporter/cryptocurrency-market-fluctuations/ ↩︎
 
-<Jeremy Swinfen Green, Understanding cryptocurrency market fluctuations, [Online resource] https://www.telegraph.co.uk/business/business-reporter/cryptocurrency-market-fluctuations/>
-
-<Mehmet Tarik Akcay, Historical Data for Top 20 Coins by Market Cap, [Online resource] https://www.kaggle.com/mtakcy/historical-data-for-top-20-coins-by-market-cap?select=eos.csv>
+    3. Mehmet Tarik Akcay, Historical Data for Top 20 Coins by Market Cap, [Online resource] https://www.kaggle.com/mtakcy/historical-data-for-top-20-coins-by-market-cap?select=eos.csv ↩︎
 
