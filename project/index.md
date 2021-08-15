@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "AI Time Series Analysis"
 linkTitle: "Time Series"
-tags: ["project", "reu","ai"]
+tags: ["project", "reu", "ai", "time series"]
 description: "This research is analysing multiple deep learning algorithms to detect cyber attacks on IoT Devices real-time"
 author: "Zyion Morris"
 github_url: https://github.com/cybertraining-dsc/su21-reu-374/edit/main/project/index.md
